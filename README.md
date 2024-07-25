@@ -100,18 +100,28 @@ This project was created using JavaFX. If it doesn't run, place the folder <a hr
 
 Here are some examples of the application running:
 
-<table>
+<table align="center">
   <tr>
     <td>
-    GUI
+    API implementation in code <br>
+     <img src="https://github.com/helenzina/Money-Conversion/blob/main/api.png" title="api"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    GUI  <br>
      <img src="https://github.com/helenzina/Money-Conversion/blob/main/gui.png" title="gui"/>
     </td>
+  </tr>
+  <tr>
     <td>
-    A peek of currencies
+    A peek of currencies  <br>
      <img src="https://github.com/helenzina/Money-Conversion/blob/main/currencies.png" title="currencies"/>
     </td>
+  </tr>
+  <tr>
     <td>
-    A USD to EUR conversion
+    A USD to EUR conversion  <br>
      <img src="https://github.com/helenzina/Money-Conversion/blob/main/conversion.png" title="conversion"/>
     </td>
 </tr>
