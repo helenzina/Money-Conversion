@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.orpalis.com/wp-content/uploads/2013/04/lzw_compression.jpg"/>
+<img src="https://m.media-amazon.com/images/I/510WmeXkLXL.png"/>
 <h3 align="center">Money Conversion</h3>
 <p align="center">
 A Currency Converter in Java using API
@@ -32,7 +32,7 @@ Nowadays, applications which are developed using APIs are very common and easy t
 
 1. By visiting this <a href="https://www.alphavantage.co/documentation/">link</a>, you will see many services that this API can provide. Under the Table of Contents, we select the desired API, i.e. the **Foreign Exchange Rates (FX)**.
 
-2. Then, we can take a look on the API parameters offered by this service and a few examples to understand how it works. These examples are a demo so in order to use the API, you need to receive a lifetime access<a href="https://www.alphavantage.co/support/#api-key">API key</a>.  
+2. Then, we can take a look on the API parameters offered by this service and a few examples to understand how it works. These examples are a demo so in order to use the API, you need to receive a lifetime access <a href="https://www.alphavantage.co/support/#api-key">API key</a>.  
 
 3. Fill the form and start your own application acquiring your own API key! Alpha Vantage API have a restriction of 5 daily free usages so be cautious.
 
@@ -169,7 +169,7 @@ Distributed under the MIT License. See the LICENSE file for more information.
 
  ## Contact
  
-If you have any questions or suggestions, feel free to reach out to me:
+If you have any questions or suggestions, feel free to reach out to us:
 - Helen Zina - helenz1@windowslive.com
 - Project Link: https://github.com/helenzina/Money-Conversion
 
