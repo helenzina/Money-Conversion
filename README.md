@@ -91,7 +91,7 @@ To run Money Conversion, follow these steps:
 
 ## Troubleshooting
 
-This project was created using JavaFX. If it doesn't run, place the folder <a href="https://drive.google.com/open?id=1dET8y46h3MsdtlYhXiMdfxxt5jR14l5L&usp=drive_fs">javafx-sdk-22</a> into the Java directory:
+This project was created using JavaFX. If it doesn't run, place the folder <a href="https://drive.google.com/open?id=12tQTvGQzBrNvYAK6pnsv9jwtNaltgRvF&usp=drive_fs">javafx-sdk-22</a> into the Java directory:
    ```sh
    C:\Program Files\Java
    ```
@@ -126,7 +126,7 @@ Here are some examples of the application running:
 
 <td align="center">
 <a href="https://github.com/helenzina">
-<img src="https://avatars.githubusercontent.com/u/128386591?v=4" width="100;" alt="Helen Zina"/><br>
+<img src="https://avatars.githubusercontent.com/u/128386591?v=4" width="100px" alt="Helen Zina"/><br>
 <sub>
 <b>Helen Zina (Me)</b>
 </sub>
@@ -135,7 +135,7 @@ Here are some examples of the application running:
 
 <td align="center">
 <a href="https://github.com/alk-an">
-<img src="https://avatars.githubusercontent.com/u/147655333?v=4" width="100px;" alt="Alkinoos Anastasiadis"/><br>
+<img src="https://avatars.githubusercontent.com/u/147655333?v=4" width="100px" alt="Alkinoos Anastasiadis"/><br>
 <sub>
 <b>Alkinoos Anastasiadis</b>
 </sub>
@@ -144,7 +144,7 @@ Here are some examples of the application running:
 
 <td align="center">
 <a href="https://github.com/LagiokapasDimitrios">
-<img src="https://avatars.githubusercontent.com/u/147161663?v=4" width="100px;" alt="Dimitrios Lagiokapas"/><br>
+<img src="https://avatars.githubusercontent.com/u/147161663?v=4" width="100px" alt="Dimitrios Lagiokapas"/><br>
 <sub>
 <b>Dimitrios Lagiokapas</b>
 </sub>
@@ -153,7 +153,7 @@ Here are some examples of the application running:
 
 <td align="center">
 <a href="https://github.com/StylianiMakri">
-<img src="https://avatars.githubusercontent.com/u/132708484?v=4" width="100px;" alt="Styliani Makri"/><br>
+<img src="https://avatars.githubusercontent.com/u/132708484?v=4" width="100px" alt="Styliani Makri"/><br>
 <sub>
 <b>Styliani Makri</b>
 </sub>
