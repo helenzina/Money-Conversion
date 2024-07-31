@@ -95,6 +95,10 @@ This project was created using JavaFX. If it doesn't run, place the folder <a hr
    ```sh
    C:\Program Files\Java
    ```
+If it still doesn't work, then you need to add the path of the JDK you have in the enviromental variables. E.g. **JAVA_HOME**:
+   ```sh
+   C:\Program Files\Java\jdk-21
+   ```
 
  ## Usage
 
