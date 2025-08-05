@@ -61,8 +61,6 @@ Navigate to the **Usage** section to see the API implementation in code and the 
 
 ## How To Run
 
-To run Money Conversion, follow these steps:
-
 ### Using IntelliJ Community IDEA
 
 1. Open the folder of your local repository in IntelliJ Community IDEA and select a version of JDK for the compiler. 
