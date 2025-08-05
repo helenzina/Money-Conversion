@@ -46,11 +46,9 @@ Navigate to the **Usage** section to see the API implementation in code and the 
  
 <p>Please follow the following steps for successful installation:</p>
 
-1. Install <a href="https://www.jetbrains.com/idea/download/?section=windows">IntelliJ Community IDEA</a>. 
-   
-2. Clone the repo
+1. **Clone the repo**.
    ```sh
-   gh repo clone helenzina/Money-Conversion
+   git clone https://github.com/helenzina/Money-Conversion
    ```
 
 ## Features
@@ -63,9 +61,9 @@ Navigate to the **Usage** section to see the API implementation in code and the 
 
 ## How To Run
 
-### Using IntelliJ Community IDEA
-
 To run Money Conversion, follow these steps:
+
+### Using IntelliJ Community IDEA
 
 1. Open the folder of your local repository in IntelliJ Community IDEA and select a version of JDK for the compiler. 
 2. Navigate to **Run > Edit Configurations...** from the menu, and in the **Build and run** category, press **Modify options** and select **Add VM options**.
@@ -78,8 +76,6 @@ To run Money Conversion, follow these steps:
 
 
 ### Using Visual Studio Code
-
-To run Money Conversion, follow these steps:
 
 1. Open the folder of your local repository in Visual Studio Code and make sure you have the **Java** and **JavaFX** extensions installed. 
 
@@ -140,7 +136,7 @@ Here are some examples of the application running:
 
 <td align="center">
 <a href="https://github.com/helenzina">
-<img src="https://avatars.githubusercontent.com/u/128386591?v=4" width="100px" alt="Helen Zina"/><br>
+<img src="https://avatars.githubusercontent.com/u/128386591?v=4" width=100 alt="Helen Zina"/><br>
 <sub>
 <b>Helen Zina (Me)</b>
 </sub>
@@ -149,7 +145,7 @@ Here are some examples of the application running:
 
 <td align="center">
 <a href="https://github.com/alk-an">
-<img src="https://avatars.githubusercontent.com/u/147655333?v=4" width="100px" alt="Alkinoos Anastasiadis"/><br>
+<img src="https://avatars.githubusercontent.com/u/147655333?v=4" width=100 alt="Alkinoos Anastasiadis"/><br>
 <sub>
 <b>Alkinoos Anastasiadis</b>
 </sub>
@@ -158,7 +154,7 @@ Here are some examples of the application running:
 
 <td align="center">
 <a href="https://github.com/LagiokapasDimitrios">
-<img src="https://avatars.githubusercontent.com/u/147161663?v=4" width="100px" alt="Dimitrios Lagiokapas"/><br>
+<img src="https://avatars.githubusercontent.com/u/147161663?v=4" width=100 alt="Dimitrios Lagiokapas"/><br>
 <sub>
 <b>Dimitrios Lagiokapas</b>
 </sub>
@@ -167,7 +163,7 @@ Here are some examples of the application running:
 
 <td align="center">
 <a href="https://github.com/StylianiMakri">
-<img src="https://avatars.githubusercontent.com/u/132708484?v=4" width="100px" alt="Styliani Makri"/><br>
+<img src="https://avatars.githubusercontent.com/u/132708484?v=4" width=100 alt="Styliani Makri"/><br>
 <sub>
 <b>Styliani Makri</b>
 </sub>
